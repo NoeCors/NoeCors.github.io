@@ -41,11 +41,12 @@ Work experience
 
 Software
 ======
-*
-*
-*
-*
-*
+* R
+* Python
+* Stata
+* SAS
+* SQL
+* SPSS
 
 
 
