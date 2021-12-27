@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. student in Statistical Sciences at UNIPD"
   location         : "Padova"
-  employer         : "https://www.stat.unipd.it/ricerca/dottorato-di-ricerca"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  employer         : "University of Padova"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
