@@ -12,8 +12,8 @@ I am an enthusiastic Ph.D. student in [Statistical Sciences at the University of
 
 
 Main research interests up until now:
-	* Methodological Statistics
-	* Multivariate Statistics
-	* Clustering and Classification 
+* Methodological Statistics
+* Multivariate Statistics
+* Clustering and Classification 
 ---
 
