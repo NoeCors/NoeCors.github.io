@@ -25,13 +25,13 @@ Education
 	* 110/110 cum laude
 
 
-Work experience
+Teaching experience
 ======
 * 2019-2021: Academic Tutor for B.Sc in Statistics
   * University of Bologna 
 
-* Summer 2020: Market Intelligence and Consumer Insight Internship
-  * Nomisma
+* Teaching Tutor at course Modern statistic and big data analysis
+  * University of Bologna
 
 Software
 ======
